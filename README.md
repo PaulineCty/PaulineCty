@@ -1,6 +1,4 @@
-<a name="readme-top"></a>
-
-<div align="center">
+<div style="text-align: center;">
     <h1>Pauline Cauty</h1>
     <h2> 👩‍💻 Back end Web Developper</h2>
 </div>
