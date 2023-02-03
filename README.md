@@ -1,11 +1,12 @@
-<div style="text-align: center;">
-    <h1>Pauline Cauty</h1>
-    <h2> 👩‍💻 Back end Web Developper</h2>
-</div>
+# Pauline Cauty
+
+## 👩‍💻 Back end Web Developper
 
 ## Hi there 👋
-<p>I am an engineer who decided to change path a year ago to become a software engineer. I was previously specialized in project management and was working in this industry for 3.5 years. I am based in France.</p>
-<p>You can find me here:</p>
+
+I am an engineer who decided to change path a year ago to become a software engineer. I was previously specialized in project management and was working in this industry for 3.5 years. I am based in France.  
+
+You can find me here:
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
