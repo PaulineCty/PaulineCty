@@ -24,10 +24,13 @@ You can find me here:
 
 ![NodeJS](https://camo.githubusercontent.com/0ec502bf2b38292c5165306be285de999f3863d1c87032b478108caeb03c021c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64655f6a732d2532333333393933332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465)
 ![Express](https://camo.githubusercontent.com/8905df2308da0e37a4fde9aa05e6f62442b9f98256112360a5ebf19cfd0c0319/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732d253233464646462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d626c61636b)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)
 ![Sequelize](https://camo.githubusercontent.com/f4da66093de9b6bb398ed87b74c42269564b4302d32f7a8496f1d3bac9d55a3e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73657175656c697a652d6379616e2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d73657175656c697a65266c6f676f436f6c6f723d626c7565)
+<p>FYI, in my previous work experience at Airbus I used to work with Skywise Foundry, a Palantir tool.</p>
+
 ![PostgreSQL](https://camo.githubusercontent.com/29e7fc6c62f61f432d3852fbfa4190ff07f397ca3bde27a8196bcd5beae3ff77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7374677265732d2532333331363139322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-<p>FYI, in my previous work experience at Airbus I used to work with Skywise Foundry, a Palantir tool.</p>
+
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
